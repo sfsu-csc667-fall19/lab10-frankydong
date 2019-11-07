@@ -8,6 +8,7 @@
 - Run with `docker run -d -p 3000:3000 hello-docker`
 - View with `docker container ls`
 - Stop with `docker stop <container id>`
+- Login with `docker login `
 - Push your docker image with docker push https://docs.docker.com/engine/reference/commandline/push/
 - Run your image off of dockerhub `docker run -p 3000:3000 <username>/hello-docker:v1`
 - Try running someone else's image
